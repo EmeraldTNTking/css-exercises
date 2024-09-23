@@ -1,0 +1,14 @@
+.clickMe1,
+.clickMe2 {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.clickMe1 {
+    color: white;
+    background-color: black;
+}
+
+.clickMe2 {
+    background-color: yellow;
+}
